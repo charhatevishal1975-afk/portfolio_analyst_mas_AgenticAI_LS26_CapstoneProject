@@ -1,0 +1,11 @@
+langgraph==0.2.62
+langchain==0.3.13
+langchain-google-genai>=2.1.8
+langchain-core==0.3.28
+yfinance==1.5.1
+feedparser==6.0.11
+statsmodels==0.14.4
+numpy==1.26.4
+pandas==2.2.3
+python-dotenv==1.0.1
+google-genai>=1.28.0
